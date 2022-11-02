@@ -17,6 +17,7 @@ public class ArrayListMain {
 		list.set(1, "흑표"); //list 수정
 		System.out.println(list);
 		System.out.println(list.get(2));
+		String str = "sdf sfd sdsf";
 		
 		//1970년 1월 1일 자정부터 지나온 시간
 		long start = System.currentTimeMillis();
